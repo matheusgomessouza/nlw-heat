@@ -7,7 +7,7 @@ Projeto da trilha Impulse, que foi desenvolvido durante a semana de ESQUENTA par
 ![](/assets/capa.jpg)
 
 
-⚙️ **Tecnologias Utilizadas**
+⚙️ **Tecnologias Utilizadas / Used technologies**
 
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
